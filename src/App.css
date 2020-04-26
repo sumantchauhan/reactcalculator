@@ -47,8 +47,9 @@ button {
 }
 
 .body{
-  padding-top: 30px;
+  padding-top: 150px;
   height: 100%;
+  padding-bottom: 200px;
 }
 
 .whiteBody{

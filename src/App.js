@@ -23,9 +23,6 @@ class App extends Component {
         else if(button === "C"){
             this.reset()
         }
-        else if(button === "CE"){
-            this.backspace()
-        }
 
         else {
             this.setState({
